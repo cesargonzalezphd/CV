@@ -39,7 +39,7 @@ experience:
     company: University of Minnesota Medical School
     company_url: ''
     location: Minnesota
-    date_start: '2012-01-02'
+    date_start: '2012-02-02'
     date_end: '2014-06-31'
     description: 
     
