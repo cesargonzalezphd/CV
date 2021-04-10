@@ -22,11 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Clinical Psychologist
-    company: GenCoin
+  - title: Assistant Professor of Psychology and Family Medicine
+  - Associate Program Director, Family Medicine Residency Program
+    company: Mayo Clinic
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Minnesota
+    date_start: '2014-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,11 +36,19 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Assistant Professor
+    company: University of Minnesota Medical School
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Minnesota
+    date_start: '2012-01-01'
+    date_end: '2014-06-31'
+    description: 
+    
+    - title: Assistant Professor
+    company: University of Minnesota Medical School
+    company_url: ''
+    location: Minnesota
+    date_start: '2012-01-01'
+    date_end: '2014-06-31'
+    description: 
 ---
