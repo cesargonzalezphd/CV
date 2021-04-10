@@ -18,6 +18,7 @@ interests:
 - Diversity Science
 - Schema Therapy
 - Human Sexulity
+- Health Psychology
 - Graduate Medical Education
 
 # Education to show in About widget
