@@ -6,12 +6,7 @@ title: Cesar A. Gonzalez, PhD, LP, ABPP
 superuser: true
 
 # Role/position/tagline
-role: Clinical Psychologist
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Mayo Clinic
-  url: https://www.mayoclinic.org
+role: Board Certified Clinical Psychologist and Assistant Professor of Psychology and Family Medicine
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include diversity science and health.
