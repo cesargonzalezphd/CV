@@ -22,8 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor of Psychology and Family Medicine
-  - Associate Program Director, Family Medicine Residency Program
+  - title: Assistant Professor of Psychology and Family Medicine; Associate Program Director, Family Medicine Residency Program
     company: Mayo Clinic
     company_url: ''
     location: Minnesota
