@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Cesar A. Gonzalez, PhD, LP, ABPP
+title: Cesar A. Gonzalez, PhD, ABPP
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Board Certified Clinical Psychologist and Assistant Professor of Psychology and Family Medicine
+role: Clinical Psychologist and Assistant Professor
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include diversity science and health.
